@@ -1,0 +1,56 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+li {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+h1 {
+    background-color: #85144b;
+    margin-bottom: 0%;
+}
+
+li {
+    display: inline;
+}
+
+img {
+    padding-top: 0px;
+}
+
+ul {
+    background-color: #001f3f;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    padding: 30px 45px;
+    word-spacing: 100px;
+}
+
+body {
+    margin-right: 0%;
+    color: papayawhip;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+}
